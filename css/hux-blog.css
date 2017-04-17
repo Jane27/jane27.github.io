@@ -415,6 +415,8 @@ pre code {
   line-height: 20px;
   font-weight: 800;
   letter-spacing: 1px;
+  border: 1px solid black;
+
 }
 .navbar-custom .nav li a:active {
   background: rgba(0, 0, 0, 0.12);
