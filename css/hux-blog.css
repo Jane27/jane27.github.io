@@ -415,7 +415,7 @@ pre code {
   line-height: 20px;
   font-weight: 800;
   letter-spacing: 1px;
-  border: 1px solid black;
+  text-shadow:2px 2px black;
 
 }
 .navbar-custom .nav li a:active {
