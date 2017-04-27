@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Closures in JavaScript"
-subtitle:   "understanding the Closure and how it work"
+subtitle:   "Understanding the Closure and how it work"
 date:       2017-01-13 8:32:51
 author:     "Jane"
 header-img: "img/post-bg-nextgen-web-pwa.jpg"
