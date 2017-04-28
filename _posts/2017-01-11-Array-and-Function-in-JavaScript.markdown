@@ -23,4 +23,4 @@ The Array object lets you store multiple values in a single variable. It stores 
 
 Functions are one of the fundamental building blocks in JavaScript. A function is a JavaScript procedure—a set of statements that performs a task or calculates a value. To use a function, you must define it somewhere in the scope from which you wish to call it.
 
-![Function in JS](/img/in-article/2017-01-11-Array-and-Function-in-JavaScript/Function-in-javascript.png)
+![Function in JS](/img/in-article/2017-01-11-Array-and-Function-in-JavaScript/Function-in-javaScript.png)
