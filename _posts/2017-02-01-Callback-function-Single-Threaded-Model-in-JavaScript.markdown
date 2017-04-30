@@ -1,21 +1,22 @@
 ---
 layout:     post
-title:      "Closures in JavaScript"
-subtitle:   "Understanding the Closure and how it work"
-date:       2017-01-13 8:32:51
+title:      "Knowledge point in JavaScript"
+subtitle:   "Understanding the Callback function, Event Loop, Single-Threaded Model and Hoisting in Javascript"
+date:       2017-02-01 8:32:51
 author:     "Jane"
-header-img: "img/post-bg-nextgen-web-pwa.jpg"
+header-img: "img/post-bg-e2e-ux.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - JavaScript
-    - Closures
-    - Variable Scope
+    - Callback function
+    - Event Loop
+    - Single-Threaded Model
+    - Hoisting
 ---
 
 Closures are a fundamental JavaScript concept, if you want to understand what is closures and how it work, first of all, we need to understand some basic concept:
 
-#### Variable Scope
+#### Callback function and Event Loop
 
 JavaScript variables can belong to the local or global scope.
 
@@ -82,13 +83,16 @@ result();//4
 ``` 
 This is `closure`
 
-#### Closures
+#### Single-Threaded Model
 
 Closures are a fundamental JavaScript concept. It gives you access to an outer function’s scope from an inner function and expose the inner function to others
 
 ![Closure-scope](/img/in-article/2017-01-13-Closures-in-JavaScript/definition-closure.png)
 
 To use a closure, simply define a function inside another function and expose it. To expose a function, return it or pass it to another function.The inner function will have access to the variables in the outer function scope, even after the outer function has returned.
+
+#### Hoisting
+
 
 To summary,
 
